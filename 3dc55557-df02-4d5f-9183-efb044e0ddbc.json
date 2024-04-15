@@ -1,0 +1,1 @@
+{"id":"3dc55557-df02-4d5f-9183-efb044e0ddbc","name":"My custom checklist","author":"fruityhost","sections":[{"name":"App optimization","checks":[{"title":"Check for Measures Complexity","description":"Explore the number of SUM functions across measures"}],"qsda":false}],"org":"gitoqlok-test-workspace","published":true}
